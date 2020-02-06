@@ -5,7 +5,7 @@
 @license: (C) Copyright 2013-2017, Node Supply Chain Manager Corporation Limited.
 @contact: jiaoank@mail2.sysu.edu.cn
 @software: pycharm
-@file: contributionModel.py
+@file: ccrrcs.py
 @time: 2020/2/1 16:45
 @desc: The main realization of ccrrcs
 '''
